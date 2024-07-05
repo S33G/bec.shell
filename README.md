@@ -4,4 +4,4 @@
 
 A simple collection to install and set up a **shell** on Linux.
 
-The roles contain documentation with examples.
+[Roles Documentation with examples](https://github.com/bec-galaxy/bec.shell/tree/main/roles/zsh)
